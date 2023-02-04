@@ -1,0 +1,23 @@
+{
+  "name": "cypress-leads2b",
+  "version": "1.0.0",
+  "description": "Testes automatizados plataforma Leads2B com Cypress",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hvnc3/cypress-leads2b.git"
+  },
+  "author": "Henrique Vince",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hvnc3/cypress-leads2b/issues"
+  },
+  "homepage": "https://github.com/hvnc3/cypress-leads2b#readme"
+}
